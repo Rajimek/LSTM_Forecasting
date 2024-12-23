@@ -33,7 +33,7 @@ To set up the project environment, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Rajimek/LSTM_Forecasting.git
    cd PROJECT_LSTM
    ```
 
